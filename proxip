@@ -1,2 +1,7 @@
 edgetunnel.anycast.eu.org（美国的加速CDN）
 cdn.anycast.eu.org（香港日本新加坡加速CDN）
+###目前脚本使用来源于网络分享的proxyIP域名：
+workers.cloudflare.cyou
+cdn.xn--b6gac.eu.org
+cdn-all.xn--b6gac.eu.org
+bestproxy.onecf.eu.org
